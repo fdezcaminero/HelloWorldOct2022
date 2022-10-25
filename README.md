@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# HelloWorldOct2022
+# Hello Microverse
 Take 4
 
 > Writing a 'Hello World!' file and learning how to use Git.
